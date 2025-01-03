@@ -92,7 +92,7 @@
 		          Voluptatem dignissimos provident laboris nisi ut aliquip ex ea commodo
 		        </h3>
 		        <img
-		          src="~/assets/company/about.jpg"
+		          src="src/assets/company/about.jpg"
 		          alt="Charts and graphs"
 		          class="rounded-md mb-6"
 		        />
