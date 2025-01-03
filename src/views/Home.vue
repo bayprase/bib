@@ -132,7 +132,7 @@
 		        </ul>
 		        <div class="relative">
 		          <img
-		            src="~/assets/company/about-2.jpg"
+		            :src="about2"
 		            alt="Team meeting"
 		            class="rounded-md mb-4"
 		          />
@@ -344,7 +344,8 @@
 	import {computed, ref, onMounted, onBeforeUnmount, watch} from 'vue'
 
 	import { useI18n } from 'vue-i18n';
-	import aboutImg from '@/assets/company/about.jpg'
+	import aboutImg from '@/assets/company/about.jpg';
+	import about2 from '@/assets/company/about-2.jpg';
 
 	// Use i18n hook
 	const { locale, t } = useI18n();
