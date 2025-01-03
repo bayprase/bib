@@ -344,8 +344,8 @@
 	import {computed, ref, onMounted, onBeforeUnmount, watch} from 'vue'
 
 	import { useI18n } from 'vue-i18n';
-	import aboutImg from '@/assets/company/about.jpg';
-	import about2 from '@/assets/company/about-2.jpg';
+	import aboutImg from '~/assets/company/about.jpg';
+	import about2 from '~/assets/company/about-2.jpg';
 
 	// Use i18n hook
 	const { locale, t } = useI18n();
