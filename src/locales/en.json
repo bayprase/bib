@@ -1,0 +1,45 @@
+{
+  "heading": {
+    "aboutUs": "About Us",
+    "workingWithUs": "Working With Us",
+    "ourService": "Our Services",
+    "loanWithCollateral": "Loans With Collateral",
+    "unsecuredLoan": "Unsecured Loans",
+    "loanWithInstrument": "Loans With Instruments",
+    "crowdFunding": "Crowdfunding",
+    "investment": "Invesment",
+    "trustByClient": "Trusted By Clients",
+    "subcribe": "Subscribe to our newsletter",
+    "contactSales": "Contact Sales"
+  },
+  "contents": {
+    "officePlace": "Offices worldwide",
+    "colleagues": "Colleagues",
+    "clients": "clients",
+    "service": "services"
+  },
+  "contact": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone number",
+    "message": "Message",
+    "privacy": "By selecting this, you agree to our"
+  },
+  "button": {
+    "getStarted": "Get Started",
+    "readMore": "More",
+    "letsTalk": "Submit",
+    "privacy": "privacy policy."
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "ourService": "Our Service",
+    "contact": "Contact"
+  },
+  "welcome": "Welcome",
+  "description": "This is a multi-language example.",
+  "changeLanguage": "Change Language"
+}

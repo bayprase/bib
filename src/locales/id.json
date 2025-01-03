@@ -1,0 +1,47 @@
+{
+
+  "heading": {
+    "aboutUs": "Tentang Kami",
+    "workingWithUs": "Bekerja Dengan Kami",
+    "ourService": "Layanan Kami",
+    "loanWithCollateral": "Pinjaman Dengan Jaminan",
+    "unsecuredLoan": "Pinjaman Tanpa Jaminan",
+    "loanWithInstrument": "Pinjaman Dengan Instrumen",
+    "crowdFunding": "Penggalangan Dana",
+    "investment": "Investasi",
+    "trustByClient": "Dipercaya oleh klien",
+    "subcribe": "Berlangganan buletin kami",
+    "contactSales": "Hubungi Penjualan"
+  },
+  "contents": {
+    "officePlace": "Kantor di seluruh dunia",
+    "colleagues": "Rekan Kerja",
+    "clients": "Klien",
+    "service": "Layanan"
+  },
+  "contact": {
+    "firstName": "Nama depan",
+    "lastName": "Nama belakang",
+    "company": "Perusahaan",
+    "email": "Surel",
+    "phone": "Nomer telpon",
+    "message": "Pesan",
+    "privacy": "Dengan memilih ini, Anda menyetujui kebijakan"
+  },
+  "button": {
+    "getStarted": "Jelajahi",
+    "readMore": "Selengkapnya",
+    "letsTalk": "Kirim",
+    "privacy": "privasi kami."
+  },
+
+  "navbar": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "ourService": "Layanan Kami",
+    "contact": "Kontak"
+  },
+  "welcome": "Selamat Datang",
+  "description": "Ini adalah contoh multi-bahasa.",
+  "changeLanguage": "Ganti Bahasa"
+}
