@@ -92,7 +92,7 @@
 		          Voluptatem dignissimos provident laboris nisi ut aliquip ex ea commodo
 		        </h3>
 		        <img
-		          src="../assets/company/about.jpg"
+		          src="assets/company/about.jpg"
 		          alt="Charts and graphs"
 		          class="rounded-md mb-6"
 		        />
@@ -132,7 +132,7 @@
 		        </ul>
 		        <div class="relative">
 		          <img
-		            src="../assets/company/about-2.jpg"
+		            src="assets/company/about-2.jpg"
 		            alt="Team meeting"
 		            class="rounded-md mb-4"
 		          />
