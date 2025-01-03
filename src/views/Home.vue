@@ -92,7 +92,7 @@
 		          Voluptatem dignissimos provident laboris nisi ut aliquip ex ea commodo
 		        </h3>
 		        <img
-		          src="~/assets/company/about.jpg"
+		          :src="aboutImg"
 		          alt="Charts and graphs"
 		          class="rounded-md mb-6"
 		        />
@@ -344,6 +344,7 @@
 	import {computed, ref, onMounted, onBeforeUnmount, watch} from 'vue'
 
 	import { useI18n } from 'vue-i18n';
+	import aboutImg from '@/assets/company/about.jpg'
 
 	// Use i18n hook
 	const { locale, t } = useI18n();
