@@ -81,10 +81,10 @@
 	import navbar from './partials/Navbar.vue'
 	import footnote from './partials/Footer.vue'
 	import loanWithBanking from '@/views/contentReadMore/LoanWithBanking.vue'
-	import unsecuredLoan from './contentReadMore/unsecuredLoan.vue'
-	import loanWithInstrument from './contentReadMore/LoanWithInstrument.vue'
-	import crowdFunding from './contentReadMore/Crowdfunding.vue'
-	import investment from './contentReadMore/Investment.vue'
+	import unsecuredLoan from '@/views/contentReadMore/UnsecuredLoan.vue'
+	import loanWithInstrument from '@/views/contentReadMore/LoanWithInstrument.vue'
+	import crowdFunding from '@/views/contentReadMore/Crowdfunding.vue'
+	import investment from '@/views/contentReadMore/Investment.vue'
 
 
 	const services = [
